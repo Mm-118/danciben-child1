@@ -107,6 +107,10 @@ body{
 .q-phon{text-align:center;color:var(--blue);}
 .q-input{width:100%;border:2px solid var(--line);border-radius:14px;padding:14px;font-size:18px;text-align:center;}
 .q-input:focus{outline:none;border-color:var(--primary);}
+/* 提交 + 没记住 并排 */
+.q-actions{display:flex;gap:10px;margin-top:14px;}
+.q-actions .q-submit{flex:1;margin-top:0;}
+.q-forget{flex:1;padding:13px 18px;font-size:16px;font-weight:700;border-radius:14px;}
 .q-microw{display:flex;align-items:center;gap:8px;justify-content:center;}
 .mic-btn{background:#FFE3E3;border:none;border-radius:50%;width:48px;height:48px;font-size:22px;cursor:pointer;}
 .mic-btn.on{background:var(--red);}
