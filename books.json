@@ -6,6 +6,27 @@
    "total": 800,
    "units": 40,
    "file": "words-4500KEW1.json"
+  },
+  {
+   "bookId": "4500KEW2",
+   "title": "4500 Key English Words 2",
+   "total": 800,
+   "units": 40,
+   "file": "words-4500KEW2.json"
+  },
+  {
+   "bookId": "4500KEW3",
+   "title": "4500 Key English Words 3",
+   "total": 800,
+   "units": 40,
+   "file": "words-4500KEW3.json"
+  },
+  {
+   "bookId": "4500KEW4",
+   "title": "4500 Key English Words 4",
+   "total": 800,
+   "units": 40,
+   "file": "words-4500KEW4.json"
   }
  ]
 }
